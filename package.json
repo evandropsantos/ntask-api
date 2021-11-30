@@ -1,0 +1,17 @@
+{
+  "name": "ntask-api",
+  "version": "1.0.0",
+  "description": "API de getão de tarefas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Evandro P. Santos",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "sequelize": "^6.12.0-alpha.1",
+    "sqlite3": "^5.0.2"
+  }
+}
